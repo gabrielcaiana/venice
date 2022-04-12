@@ -101,6 +101,8 @@
 .jsm-icon-workspaces:before { content: '\e8b5'; } /* '' */
 .jsm-icon-upload-file:before { content: '\e8b6'; } /* '' */
 .jsm-icon-people:before { content: '\e8b7'; } /* '' */
+.jsm-icon-assignment-turned-in-outline:before { content: '\e8bc'; } /* '' */
+.jsm-icon-account-balance-wallet-outline:before { content: '\e8bd'; } /* '' */
 .jsm-icon-emoji-events:before { content: '\e917'; } /* '' */
 .jsm-icon-check-empty:before { content: '\f096'; } /* '' */
 .jsm-icon-facebook:before { content: '\f09a'; } /* '' */
