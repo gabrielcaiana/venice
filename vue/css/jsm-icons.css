@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'jsm-icons';
-  src: url('../font/jsm-icons.eot?32998800');
-  src: url('../font/jsm-icons.eot?32998800#iefix') format('embedded-opentype'),
-       url('../font/jsm-icons.woff2?32998800') format('woff2'),
-       url('../font/jsm-icons.woff?32998800') format('woff'),
-       url('../font/jsm-icons.ttf?32998800') format('truetype'),
-       url('../font/jsm-icons.svg?32998800#jsm-icons') format('svg');
+  src: url('../font/jsm-icons.eot?97509751');
+  src: url('../font/jsm-icons.eot?97509751#iefix') format('embedded-opentype'),
+       url('../font/jsm-icons.woff2?97509751') format('woff2'),
+       url('../font/jsm-icons.woff?97509751') format('woff'),
+       url('../font/jsm-icons.ttf?97509751') format('truetype'),
+       url('../font/jsm-icons.svg?97509751#jsm-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'jsm-icons';
-    src: url('../font/jsm-icons.svg?32998800#jsm-icons') format('svg');
+    src: url('../font/jsm-icons.svg?97509751#jsm-icons') format('svg');
   }
 }
 */
@@ -92,6 +92,8 @@
 .jsm-icon-house:before { content: '\e823'; } /* '' */
 .jsm-icon-m-heart:before { content: '\e824'; } /* '' */
 .jsm-icon-professional-plus:before { content: '\e825'; } /* '' */
+.jsm-icon-campaign-outline:before { content: '\e826'; } /* '' */
+.jsm-icon-volunteer-outline:before { content: '\e827'; } /* '' */
 .jsm-icon-print:before { content: '\e831'; } /* '' */
 .jsm-icon-up-dir:before { content: '\e832'; } /* '' */
 .jsm-icon-home:before { content: '\e833'; } /* '' */
@@ -141,6 +143,7 @@
 .jsm-icon-video:before { content: '\e85f'; } /* '' */
 .jsm-icon-visibility-off:before { content: '\e860'; } /* '' */
 .jsm-icon-visibility-on:before { content: '\e861'; } /* '' */
+.jsm-icon-handshake-outline:before { content: '\e862'; } /* '' */
 .jsm-icon-eye-on:before { content: '\e871'; } /* '' */
 .jsm-icon-eye-off:before { content: '\e872'; } /* '' */
 .jsm-icon-refer:before { content: '\e873'; } /* '' */

@@ -37,6 +37,8 @@
 .jsm-icon-house:before { content: '\e823'; } /* '' */
 .jsm-icon-m-heart:before { content: '\e824'; } /* '' */
 .jsm-icon-professional-plus:before { content: '\e825'; } /* '' */
+.jsm-icon-campaign-outline:before { content: '\e826'; } /* '' */
+.jsm-icon-volunteer-outline:before { content: '\e827'; } /* '' */
 .jsm-icon-print:before { content: '\e831'; } /* '' */
 .jsm-icon-up-dir:before { content: '\e832'; } /* '' */
 .jsm-icon-home:before { content: '\e833'; } /* '' */
@@ -86,6 +88,7 @@
 .jsm-icon-video:before { content: '\e85f'; } /* '' */
 .jsm-icon-visibility-off:before { content: '\e860'; } /* '' */
 .jsm-icon-visibility-on:before { content: '\e861'; } /* '' */
+.jsm-icon-handshake-outline:before { content: '\e862'; } /* '' */
 .jsm-icon-eye-on:before { content: '\e871'; } /* '' */
 .jsm-icon-eye-off:before { content: '\e872'; } /* '' */
 .jsm-icon-refer:before { content: '\e873'; } /* '' */
