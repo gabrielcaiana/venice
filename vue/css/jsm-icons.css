@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'jsm-icons';
-  src: url('../font/jsm-icons.eot?45426911');
-  src: url('../font/jsm-icons.eot?45426911#iefix') format('embedded-opentype'),
-       url('../font/jsm-icons.woff2?45426911') format('woff2'),
-       url('../font/jsm-icons.woff?45426911') format('woff'),
-       url('../font/jsm-icons.ttf?45426911') format('truetype'),
-       url('../font/jsm-icons.svg?45426911#jsm-icons') format('svg');
+  src: url('../font/jsm-icons.eot?70235646');
+  src: url('../font/jsm-icons.eot?70235646#iefix') format('embedded-opentype'),
+       url('../font/jsm-icons.woff2?70235646') format('woff2'),
+       url('../font/jsm-icons.woff?70235646') format('woff'),
+       url('../font/jsm-icons.ttf?70235646') format('truetype'),
+       url('../font/jsm-icons.svg?70235646#jsm-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'jsm-icons';
-    src: url('../font/jsm-icons.svg?45426911#jsm-icons') format('svg');
+    src: url('../font/jsm-icons.svg?70235646#jsm-icons') format('svg');
   }
 }
 */
@@ -162,6 +162,7 @@
 .jsm-icon-assignment-turned-in-outline:before { content: '\e8bc'; } /* '' */
 .jsm-icon-account-balance-wallet-outline:before { content: '\e8bd'; } /* '' */
 .jsm-icon-emoji-events:before { content: '\e917'; } /* '' */
+.jsm-icon-book-outline:before { content: '\e985'; } /* '' */
 .jsm-icon-check-empty:before { content: '\f096'; } /* '' */
 .jsm-icon-facebook:before { content: '\f09a'; } /* '' */
 .jsm-icon-menu:before { content: '\f0c9'; } /* '' */
