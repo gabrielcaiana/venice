@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'jsm-icons';
-  src: url('../font/jsm-icons.eot?70235646');
-  src: url('../font/jsm-icons.eot?70235646#iefix') format('embedded-opentype'),
-       url('../font/jsm-icons.woff2?70235646') format('woff2'),
-       url('../font/jsm-icons.woff?70235646') format('woff'),
-       url('../font/jsm-icons.ttf?70235646') format('truetype'),
-       url('../font/jsm-icons.svg?70235646#jsm-icons') format('svg');
+  src: url('../font/jsm-icons.eot?1968936');
+  src: url('../font/jsm-icons.eot?1968936#iefix') format('embedded-opentype'),
+       url('../font/jsm-icons.woff2?1968936') format('woff2'),
+       url('../font/jsm-icons.woff?1968936') format('woff'),
+       url('../font/jsm-icons.ttf?1968936') format('truetype'),
+       url('../font/jsm-icons.svg?1968936#jsm-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'jsm-icons';
-    src: url('../font/jsm-icons.svg?70235646#jsm-icons') format('svg');
+    src: url('../font/jsm-icons.svg?1968936#jsm-icons') format('svg');
   }
 }
 */
