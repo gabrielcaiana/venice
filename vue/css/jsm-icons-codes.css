@@ -89,6 +89,7 @@
 .jsm-icon-visibility-off:before { content: '\e860'; } /* '' */
 .jsm-icon-visibility-on:before { content: '\e861'; } /* '' */
 .jsm-icon-handshake-outline:before { content: '\e862'; } /* '' */
+.jsm-icon-warning-outline:before { content: '\e864'; } /* '' */
 .jsm-icon-eye-on:before { content: '\e871'; } /* '' */
 .jsm-icon-eye-off:before { content: '\e872'; } /* '' */
 .jsm-icon-refer:before { content: '\e873'; } /* '' */
